@@ -1,4 +1,4 @@
-"# Mini Lakehouse Pipeline Demo
+# Mini Lakehouse Pipeline Demo
 
 ## Project Purpose
 
@@ -83,3 +83,6 @@ Even though this project is a demonstration, the concepts are important for mode
 - `ecommerce_sales_34500.csv` — sample dataset.
 
 If you want, I can also add a short “how to present this project” section or a simplified task checklist for exam/demo use." 
+
+
+### github repo link - https://github.com/codezelaca/de-mini-lakehouse-pipeline
